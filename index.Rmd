@@ -1,0 +1,52 @@
+---
+title: "Use Rmarkdwon to create my website"
+---
+
+
+------    -------
+pic       info
+photo     email
+------    -------
+
+Title part can be removed, equivilent to **title: " "**
+
++---------------------------------+---------+
+|![garching](images/garching.jpg) |    email|
++---------------------------------+---------+
+
+
+
+
+
+## **News**  {.tabset} 
+
+### Latest
+
+\{.tabset\} can be updated with \{.tabset .tabset-fade .tabset-pills\}
+
+### 2019
+
+- - -
+
+* * * *
+
+## Address
+
+## Email
+
+## Research interests
+
+## Publications
+
+
+## Markdown References 
+
+- [Panoc markdown](https://pandoc.org/MANUAL.html#pandocs-markdown)
+
+- [Basic synax](https://www.markdownguide.org/basic-syntax/ "The suggested material")
+
+- [Definitive Guide](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
+
+- [Steps for R markdown website using Rstudio](https://livefreeordichotomize.com/2017/08/08/how-to-make-an-rmarkdown-website/)
+
+- [R Tutorial Chinese](https://www.math.pku.edu.cn/teachers/lidf/docs/Rbook/html/_Rbook/markdown.html)
